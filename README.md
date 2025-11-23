@@ -1,4 +1,4 @@
 # learning-projects
-## Projects to reinforce learning at Maestro 
+## Projects to reinforce learning with Maestro 
 ### Python 101
-- Rock Paper Scissors
+- Password strength checker with basic error handling
